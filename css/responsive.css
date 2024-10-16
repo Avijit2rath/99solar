@@ -1,0 +1,674 @@
+@media screen and (max-width: 1399px) {
+.whysolarfourthcontsec .ps-xl-5.ms-xl-5{ padding-left:0 !important; margin-left:0 !important; }
+.img-icon:after{width:284px; right:-152px;}
+.your-location-form-sec .box-row{width:100%;}
+}
+@media screen and (max-width: 1199px) {
+	.headersec .logo{max-width:100%;}
+	.navsec ul li{ font-size:15px; padding: 0 12px;}
+	.banner-why img{ object-position: 40%;}
+	.form-box{width:100%; padding:30px 45px;}
+	.teamthumbnail{height:250px;}
+	.team-sec h4{font-size:1.2rem;}
+	.img-icon:after{width:224px; right:-123px;}
+	.customers-sec{ padding:70px 0; background-size:2500px; }
+	.customers-text{width: 90%;
+    padding: 21px 47px 72px 75px;
+    margin-left: 8%; background-position:left -26px;}
+}
+@media screen and (max-width: 1024px) {
+
+
+
+.navsec ul li a
+
+{
+
+	padding:0;
+
+}
+
+.footer{padding-top:120px;}
+
+}
+
+
+
+@media screen and (max-width: 991px) {
+
+
+.mobheadersec{background:#fff;}
+.mobheadersec .row
+
+{
+
+	align-items:center;
+
+}
+
+.headersec
+
+{
+
+	display:none;
+
+}
+
+.mobheadersec
+
+{
+
+	display:block;
+
+}
+
+.bannersec h1
+
+{
+
+	font-size: 45px;
+
+	line-height:45px;
+
+}
+
+.blogthumbnail
+
+{
+
+	height:180px;
+
+}
+
+.sgleblogsec h4
+
+{
+
+	font-size:1.3rem;
+
+}
+.get-quote-sec{padding:20px 0;}
+.get-quote-sec h2{font-size: 1.4rem; margin-right:25px; }
+.teamthumbnail{height:385px;}
+.team-sec{ padding:80px 0 40px; }
+.team-sec .team-box{ padding-bottom:40px; }
+.team-sec h4{font-size:1.4rem; line-height:1.4rem;}
+.img-icon:after{width:146px; right:-84px;}
+.your-location-form-sec .p-right{ padding-right:0; padding-bottom:35px; }
+.customers-sec { height:345px; background-size: 1683px auto;}
+
+}
+
+
+
+@media screen and (max-width: 767px) {
+
+
+
+.bannersec
+
+{
+
+	/*height:300px;*/
+	/*background-size:800px auto;*/
+	background-position:bottom center;
+}
+
+.bannersec img
+
+{
+
+	height: 100%;
+
+    object-fit: cover;
+
+}
+
+.bannersec .top
+
+{
+
+	top: 20%;
+
+    /*-ms-transform: translateY(-50%);
+
+    transform: translateY(-50%);*/
+
+	left:0;
+
+	z-index:1;
+
+	text-align:center;
+
+}
+
+.bannersec h1 {
+
+    font-size: 30px;
+
+    line-height: 30px;
+
+	color:#0e1e3f;
+
+}
+
+.bannersec h5
+
+{
+
+	font-size:15px;
+
+	margin-bottom:22px;
+	font-weight:500;
+}
+
+.bannersec .btn
+
+{
+
+	font-size:15px;
+	width: 260px;
+    padding: 15px 20px;
+    line-height: 17px;
+}
+.banner-why{text-align:center;}
+.banner-why img{height:auto;}
+.fstcontsec
+
+{
+
+	padding:50px 0 20px 0;
+
+}
+
+.fstcontsec h2, .frthcontsec h2, .fifthcontsec h2, .sixthcontsec h2
+
+{
+
+	font-size:2rem;
+
+}
+.frthcontsec h2{ margin-bottom:15px; }
+.fstdatacontwidth
+
+{
+
+	background-image:none;
+
+}
+
+.fstdatacontwidth ul
+
+{
+
+	text-align:center;
+	padding:0 40px;
+	margin-bottom: 30px;
+}	
+.fstdatacontwidth img{ width:300px; margin:0 auto -30px; }
+.fstdatacontwidth ul li
+
+{
+
+	font-size:16px;
+	line-height:18px;
+}
+
+.fstdatacontwidth ul li span
+
+{
+	width:37px; height:37px; line-height:37px;
+	display:block;
+	font-size:23px;
+	margin:0 auto 10px;
+
+}
+
+.savetodayformwidth
+
+{
+
+	margin:0 auto auto;
+
+	max-width:70%;
+	padding:55px 30px 20px;
+}
+
+.sndcontsec
+
+{
+
+	padding:30px 40px 50px;
+	text-align:center;
+}
+
+.sgleblogsec
+
+{
+
+	margin-top:50px;
+
+}
+.sgleblogsec h4:after{height:2px;}
+.blogthumbnail
+
+{
+
+	height:auto;
+	margin-bottom:18px;
+}
+
+.sgleblogsec h4 {
+
+    font-size: 1.5rem;
+}
+
+.thrdcontsec
+
+{
+
+	height:350px;
+	/*background-size: 780px;*/
+	background-attachment:inherit;
+}
+
+.frthcontsec, .fifthcontsec
+
+{
+
+	padding:50px 40px;
+	text-align:center;
+}
+.sgleblogsec h4:after{left:0; right:0; margin:0 auto;}
+.fifthcontsec h2
+
+{
+
+	margin-bottom:0;
+
+}
+
+.sixthcontsec
+
+{
+
+	padding-bottom:40px;
+	padding-left:40px; 
+	padding-right:40px;
+	border-top:1px solid #ebe6e6;
+}
+
+.contact-home h2
+
+{
+
+	font-size:1.5rem;
+
+}
+
+.contact-home a, .get-quote-sec h2
+
+{
+
+	font-size:1.6rem;
+
+}
+
+.footer
+
+{
+
+	text-align:center;
+
+	padding-top:0;
+
+}
+
+.footer-top
+
+{
+
+	display:none;
+
+}
+
+.f-logo
+
+{
+
+	margin:auto auto 15px;
+
+}
+
+.f-menu ul, .footer-md .f-menu ul, .social ul
+
+{
+
+	text-align:center;
+
+}
+
+.f-menu ul li
+
+{
+
+	margin-right:30px;
+
+}
+
+.f-menu ul li a
+
+{
+
+	line-height:normal;
+
+	font-size:16px;
+
+}
+
+.social
+
+{
+
+	margin:15px 0 0 0;
+
+}
+
+.footer p
+
+{
+
+	font-size:1rem;
+
+	line-height:normal;
+
+}
+
+.footer-bottom
+
+{
+
+	background:#f5f5f6;
+
+}
+
+.mobftrsec
+
+{
+
+	display:block;
+
+}
+
+
+.get-quote-sec.quote-fixed{ position:inherit;}
+.contact-home{ padding:35px 20px;}
+.get-quote-sec{position:inherit; padding:25px 15px;}
+.get-quote-sec h2{margin:0 0 15px;}
+.bannersec .container img{width:180px; margin: 0 auto 20px;}
+.fstcontsec h2{padding-bottom:30px;}
+.fstdatacontwidth ul li{margin-top:30px;}
+.inputfield{ text-align:center; box-shadow: inset 0px 1px 5px 0 rgb(120, 168, 182, 0.33); }
+.checkbut{width:260px; margin:0 auto 20px;
+	height:auto;
+	font-size:15px;
+	width: 260px;
+    padding: 15px 20px;
+    line-height: 17px;
+}
+.fstcontsec .container{ max-width:100%; padding:0; }
+.savetodayformwidth{max-width:100%; border-radius:0; border: 1px solid #ebe6e6; border-left:0; border-right:0;}
+.footer-md{ padding-top:12px; }
+.footer-md{ overflow:hidden; }
+.footer-md .container{ max-width:100%; padding:0; }
+.social ul{  border-bottom: 4px solid #f6f4f4; padding-bottom:20px; margin-bottom:20px; }
+.social ul li{ margin:0 20px; }
+a.redcheckbut, .get-quote-sec .btn{font-size: 15px;
+    width: 260px;
+    padding: 15px 20px;
+    line-height: 17px;  }
+a.redcheckbut{margin-top: 25px;}
+.footer-bottom{ border-top: 1px solid #e1e1e1;}
+.sgleblogsec p{line-height:1.33;}
+.frthcontsec p{line-height:1.29;}
+.whysolarfstcontsec{padding:50px 0;}
+
+.whysolarfstcontsec h2{ font-size:1.6rem; line-height:1.8rem; }
+.whysolarfstcontsec h2 br{ display:block; }
+.whysolarfstcontsec h2:after{width:80px;}
+.whysolarfstcontsec p{ line-height:1.24; }
+.whysolarsndcontsec{ text-align:center; padding:50px 20px; }
+.whysolarsndcontsec h2{ font-size:1.6rem; line-height:1.8rem; margin-bottom:0; }
+.whysolarsndcontsec h2:after{width:80px;}
+.whysolarsndcontsec .blogthumbnail{ margin-bottom:30px; }
+.whysolarsndcontsec .sgleblogsec{ margin-top:35px; }
+.whysolarthrdcontsec{ background-image:url(../images/Mobile-Why-Go-Solar-Page-mid-image.jpg); background-size:100% auto; background-attachment:inherit; }
+.whysolarthrdcontsec h2{font-size:1.5rem;}
+.whysolarthrdcontsec a.redcheckbut{width:200px; height:auto; padding: 12px 20px; margin-top:45px;}
+.whysolarfstcontsec a.learnmore{ font-size:15px; line-height:17px; width:260px; height:auto; padding: 12px 20px;}
+.whysolarthrdcontsec h2 br{display:block;}
+.whysolarfourthcontsec{ text-align:center; padding:50px 0; }
+.whysolarfourthcontsec h2{font-size:1.6rem; line-height:1.8rem; padding-bottom:15px;}
+.whysolarfifthcontsec h2{ margin:25px 0 20px; }
+.whysolarfifthcontsec{padding:80px 20px 50px;}
+.round-box{ width:185px; height:185px; margin:50px auto 0;  }
+.whysolarfifthcontsec a.learnmore{width:220px; font-size:15px; line-height:17px;}
+.form-box{ padding:40px 20px; }
+.form-box h6{ margin-bottom:15px; }
+.form-box .form-check input[type="radio"] ~ label{ font-size:14px; width:130px; padding:10px 15px; }
+.banner-quest{ height:250px; }
+.banner-inner.banner-quest h2{ font-size:1.6rem; }
+.contact-form-sec{ padding:50px 0 35px; }
+.contact-form-sec h5{ font-size:1.2rem; margin-bottom:30px; }
+.blog-page-sec .sgleblogsec{ margin-bottom:0; }
+.blog-page-sec .col-lg-4:first-child .sgleblogsec{ margin-top:0; }
+.blog-page-sec{text-align:left;}
+.blog-page-sec h4:after{margin:0;}
+.about-page-sec{ padding-top:50px; }
+.about-page-sec h2{font-size: 1.6rem;
+    line-height: 1.8rem; margin-bottom:0;}
+.about-page-sec p, .about-page-sec-two p{line-height:1.7;}
+
+.teamthumbnail{height:auto;}
+.team-sec{ padding:40px 20px 20px; }
+.team-sec .team-box{ padding-bottom:30px; }
+
+.form-box .form-check input[type="radio"] ~ label{ border:1px solid #ccc; border-radius:5px; }
+.form-box .form-check input[type="radio"]:checked ~ label, .form-box .form-check input[type="radio"]:hover ~ label{ border: solid 1px #36c4e2;}
+.banner-quest{background:url(../images/Mobile-Questionnaire-Page-Top-Banner.jpg); background-size:cover; background-position:left bottom }
+.form-box h6{ line-height:1.29; }
+.whysolar-simpletogo-sec{ border-bottom: 1px solid #ebe6e6; padding:50px 0 30px; }
+.whysolar-simpletogo-sec p{ margin-bottom:30px; }
+.whysolar-simpletogo-sec .img-icon p{ font-size:15px; line-height:1.29; margin-top:0; margin-bottom:0; }
+.img-icon img{width:53px; height:auto;}
+.col-lg-4:first-child .img-icon img{width:63px; margin-right:-10px;}
+.col-lg-4:last-child .img-icon img{width:62px; margin-bottom:10px;}
+.img-icon:after{display:none;}
+.whysolar-simpletogo-sec h2:after{width:80px;}
+.career-sec-two{ padding:40px 0 50px; }
+.career-sec-two h2{margin:0;}
+.career-apply-sec{ padding:50px 0; }
+.career-apply-sec h3 br{ display:block; }
+.career-apply-sec .savetodayformwidth{ border-radius:7px; border:none; }
+.banner-career{ background-image:  }
+.whysolar-simpletogo-sec h2{font-size:1.6rem;}
+.career-sec-two h3{ padding-top:15px; }
+.your-location-form-sec{ border-top: 1px solid #ebe6e6; padding-top:50px; padding-bottom:0;}
+.your-state-sec{ border-top:none; padding:50px 0;}
+.frthcontsec{ border-bottom: 1px solid #ebe6e6;}
+.banner-near-me h2{ text-align:left; }
+.installation-faq-sec{ padding-top:50px; }
+.banner-near-me{ padding:110px 0 40px; }
+.banner-near-me h2{ margin-bottom:35px; }
+
+.customers-sec { background-size: 2435px; background-position: 43% center;}
+.customers-text p, .customers-text h5{ font-size:1rem; }
+.customers-sec{ height:800px; padding:50px 0; background-position:left top; background-size:cover; }
+.customers-sec h2{ text-align:right; }
+.customers-text{ width:auto; margin-left:100px; padding: 20px 25px 25px 45px; background-image:url(../images/Costumers-saying-chat-bubble-mobile.png); background-position:center; }
+.featured-sec .sgleblogsec{ margin-top:30px; margin-bottom:10; }
+.career-apply-sec .checkbut{ padding:15px 20px; }
+
+.customers-sec{ height:auto; padding:0; position:relative; }
+	.customers-sec img{ display:block; }
+	.customers-text{ display:none; }
+	.customers-sec .customers-box{ position:absolute; left:0; top:0; width:100%; padding-top:30px; }
+	.customers-sec h2{padding-left:0; padding-right:20px; }
+}
+
+
+
+@media screen and (max-width: 600px) {
+
+.bannersec .container img{width:170px;}
+.bannersec h5{font-size:14px;}
+.bannersec .btn{ font-size:13px; padding: 14px 20px;}
+.mobheadersec
+
+{
+
+	padding:15px 0;
+
+}
+
+.fstcontsec h2, .frthcontsec h2, .fifthcontsec h2, .sixthcontsec h2, .savetodayformwidth h3
+
+{
+
+    font-size: 1.6rem;
+    line-height: 1.8rem;
+}
+.frthcontsec h2 br{display:block;}
+.savetodayformwidth
+
+{
+
+	max-width:100%;
+
+}
+
+.sgleblogsec h4 {
+
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+}
+.sgleblogsec h4 br{ display:block; }
+.thrdcontsec h2
+
+{
+
+	font-size:24px;
+	line-height:28px;
+
+}
+.thrdcontsec h2 span{display:block;}
+.thrdcontsec h3
+
+{
+
+	font-size:2.6rem;
+
+}
+
+.thrdcontsec {
+
+    height: 400px;
+
+}
+
+.accordion .accordion-button
+
+{
+
+	font-size:16px;
+
+}
+
+.accordion .accordion-body
+
+{
+
+	padding-left:65px;
+
+}
+
+.accordion p
+
+{
+
+	font-size:0.9rem;
+	line-height: 1.5;
+}
+
+.contact-home h2
+
+{
+
+	font-size:21px;
+
+	line-height:1.4rem;
+
+}
+
+.get-quote-sec h2
+
+{
+
+	font-size:1.3rem;
+
+	margin-right:0;
+
+	font-weight:600;
+	line-height:1.6rem;
+}
+.get-quote-sec h2 br{ display: block; }
+/*.thrdcontsec{background-size:500px;}*/
+.fstdatacontwidth ul{width:340px; margin:0 auto 30px;}
+.fstdatacontwidth ul li br{ display:block; }
+.sndcontsec{ padding: 30px 20px 50px;}
+.frthcontsec, .fifthcontsec{ padding: 50px 20px 50px;}
+.sixthcontsec{padding-left:30px; padding-right:30px; }
+.mobftrsec img{ width:240px; }
+.accordion .accordion-button{padding-left:65px; padding-right:20px;}
+.accordion .accordion-button:before{left:20px; width:32px; height:32px;}
+.banner-inner h2{ font-size:30px; line-height:32px; margin-bottom:5px; }
+.banner-inner p{ font-size:14px; line-height:1.55; }
+.banner-why .position-absolute{align-items:flex-start !important;  padding-top: 76px;} 
+.round-box h5{font-size:15px; line-height:17px;}
+.form-box h6{text-align:center;}
+.form-box .d-flex{ text-align:center; display:block !important;}
+.form-check{ display:inline-block; padding-left:0; margin-bottom:8px;}
+.form-check:last-child{ margin-bottom:0; }
+.form-box .btn{width: 80%; font-size:18px; padding: 17px 30px; margin-top:30px; }
+.contact-form-sec .container{ padding:0; }
+.form-box{ border-radius:0; border-left:none; border-right:none; }
+.form-box .form-check input[type="radio"] ~ label{width:171px; margin: 0 2px;}
+.form-box .inputfield{ border:1px solid #e1e1e1; }
+.col-p-0{padding:0;}
+.state-img{ margin-bottom:15px; }
+.state-img img{ border-radius:5px; }
+.your-state-sec .row{ margin:0 -7px; }
+.your-state-sec .col-6{ padding:0 7px; }
+}
+/*@media screen and (max-width: 500px) {
+	.customers-sec{ height:auto; padding:0; position:relative; }
+	.customers-sec img{ display:block; }
+	.customers-text{ display:none; }
+	.customers-sec .customers-box{ position:absolute; left:0; top:0; width:100%; padding-top:30px; }
+	.customers-sec h2{padding-left:0; padding-right:20px; }
+}*/
+@media screen and (max-width: 400px) {
+.contact-home h2 br{display:block;}
+/*.banner-quest h2{margin-top:20%;}*/
+.blog-page-sec p {font-size:15px;}
+.about-page-sec p, .about-page-sec-two p{font-size:15px;}
+.form-box .form-check input[type="radio"] ~ label{width:147px; padding:6px 10px;}
+.career-apply-sec h3{font-size:1.2rem;}
+.whysolarthrdcontsec{ background-size:120% auto; }
+/*.customers-sec { padding: 30px 0; background-image: url(../images/Costumers-saying-banner-mobile-1.jpg); background-position: 48% top; background-size: 155%;}*/
+.customers-text {
+    margin-left: 120px;
+    padding: 20px 10px 25px 25px;}
+    .customers-sec h2{ font-size:1.5rem; padding-left:0; padding-right:20px; }
+.customers-text p, .customers-text h5{font-size: 0.9rem;}
+}
